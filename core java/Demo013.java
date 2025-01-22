@@ -1,5 +1,3 @@
-package Core_java;
-
 import java.util.Scanner;
 
 public class Demo13 {
