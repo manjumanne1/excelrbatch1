@@ -1,5 +1,3 @@
-package Core_java;
-
 class SumOftwoDigits {
     public static int getSumOftwoDigits(int n) {
         int a = n / 10;
